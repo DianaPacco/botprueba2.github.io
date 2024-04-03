@@ -22,6 +22,6 @@ function escucharRespuesta() {
         // Puedes agregar lógica para procesar la respuesta del usuario aquí
         
         // Por ejemplo, simplemente hacer que el bot responda nuevamente:
-        decir('Has dicho: ' + respuestaUsuario + 'jajajajaja');
+        decir('Has dicho: ' + respuestaUsuario + 'Somos grupo perusis una tienda especializada en venta de computadoras');
     }
 }
